@@ -1,0 +1,14 @@
+*.a
+*.o
+/build
+CMakeCache.txt
+CMakeFiles
+Makefile
+cmake_install.cmake
+CTestTestfile.cmake
+compile_commands.json
+
+
+
+cmake_build_debug/*
+/cmake_build_debug/*
